@@ -31,24 +31,6 @@
         "INST_DATETIME": "4-9-19 11:11"
       },
       {
-        "NOTIFICATIONID": 17338977456,
-        "AIM": "712",
-        "MESSAGE": " 0712 Startup request denied, Processing Module cover open.",
-        "INST_DATETIME": "4-9-19 10:21"
-      },
-      {
-        "NOTIFICATIONID": 17338963810,
-        "AIM": "112",
-        "MESSAGE": " 0112 Unable to process test, Sample Handler Stopped.",
-        "INST_DATETIME": "4-9-19 10:20"
-      },
-      {
-        "NOTIFICATIONID": 17338821144,
-        "AIM": "316",
-        "MESSAGE": " 0316 RV hopper door solenoid activation attempted.",
-        "INST_DATETIME": "4-9-19 9:58"
-      },
-      {
         "NOTIFICATIONID": 17338387878,
         "AIM": "172",
         "MESSAGE": " 0172 No assay found for reagent kit in section (RSH 9).",
@@ -77,18 +59,6 @@
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 13:38"
-      },
-      {
-        "NOTIFICATIONID": 17331601878,
-        "AIM": "3356",
-        "MESSAGE": " 3356 Aspiration error on liquid level sense board (0), clot score.",
-        "INST_DATETIME": "3-9-19 13:35"
-      },
-      {
-        "NOTIFICATIONID": 17331601963,
-        "AIM": "3350",
-        "MESSAGE": " 3350 Unable to process test, aspiration error for (Pipetter) at (SH Sample).",
-        "INST_DATETIME": "3-9-19 13:35"
       },
       {
         "NOTIFICATIONID": 17331601964,
@@ -121,18 +91,6 @@
         "INST_DATETIME": "3-9-19 12:04"
       },
       {
-        "NOTIFICATIONID": 17331042737,
-        "AIM": "316",
-        "MESSAGE": " 0316 RV hopper door solenoid activation attempted.",
-        "INST_DATETIME": "3-9-19 11:54"
-      },
-      {
-        "NOTIFICATIONID": 17330573869,
-        "AIM": "3356",
-        "MESSAGE": " 3356 Aspiration error on liquid level sense board (0), clot score.",
-        "INST_DATETIME": "3-9-19 10:34"
-      },
-      {
         "NOTIFICATIONID": 17330573871,
         "AIM": "3350",
         "MESSAGE": " 3350 Unable to process test, aspiration error for (Pipetter) at (SH Sample).",
@@ -157,18 +115,6 @@
         "INST_DATETIME": "3-9-19 10:34"
       },
       {
-        "NOTIFICATIONID": 17330515171,
-        "AIM": "576",
-        "MESSAGE": " 0576 Expiration date updated for (Wash Buffer) to (05.02.2020) by operator (ADMIN).",
-        "INST_DATETIME": "3-9-19 10:24"
-      },
-      {
-        "NOTIFICATIONID": 17330515172,
-        "AIM": "575",
-        "MESSAGE": " 0575 Lot number updated for (Wash Buffer) to (05491FN00) by operator (ADMIN).",
-        "INST_DATETIME": "3-9-19 10:24"
-      },
-      {
         "NOTIFICATIONID": 17330513840,
         "AIM": "3356",
         "MESSAGE": " 3356 Aspiration error on liquid level sense board (0), clot score.",
@@ -184,18 +130,6 @@
         "NOTIFICATIONID": 17330513936,
         "AIM": "842",
         "MESSAGE": " 0842 Unable to process test due to previous aspiration error on Sample ID (17).",
-        "INST_DATETIME": "3-9-19 10:23"
-      },
-      {
-        "NOTIFICATIONID": 17330513937,
-        "AIM": "302",
-        "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
-        "INST_DATETIME": "3-9-19 10:23"
-      },
-      {
-        "NOTIFICATIONID": 17330513938,
-        "AIM": "302",
-        "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
@@ -221,24 +155,6 @@
         "AIM": "575",
         "MESSAGE": " 0575 Lot number updated for (Wash Buffer) to (05288FN00) by operator (ADMIN).",
         "INST_DATETIME": "3-9-19 10:23"
-      },
-      {
-        "NOTIFICATIONID": 17330056849,
-        "AIM": "316",
-        "MESSAGE": " 0316 RV hopper door solenoid activation attempted.",
-        "INST_DATETIME": "3-9-19 9:04"
-      },
-      {
-        "NOTIFICATIONID": 17330055549,
-        "AIM": "172",
-        "MESSAGE": " 0172 No assay found for reagent kit in section (RSH 12).",
-        "INST_DATETIME": "3-9-19 9:04"
-      },
-      {
-        "NOTIFICATIONID": 17330015345,
-        "AIM": "302",
-        "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
-        "INST_DATETIME": "3-9-19 8:59"
       },
       {
         "NOTIFICATIONID": 17330015351,
