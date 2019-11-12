@@ -1,181 +1,181 @@
 {
     "messages": [
       {
-        "NOTIFICATIONID": 18258860515,
+        "NOTIFICATIONID": "18258860515",
         "AIM": "PHN00066",
         "MESSAGE": " PHN00066 Instrument has been disconnected for more than 72 hours. Last contacted date/time: Tue Sep 10 12:10:23 GMT 2019. ",
         "INST_DATETIME": "12-11-19 4:30"
       },
       {
-        "NOTIFICATIONID": 17624268985,
+        "NOTIFICATIONID": "17624268985",
         "AIM": "PHN00066",
         "MESSAGE": " PHN00066 Instrument has been disconnected for more than 72 hours. Last contacted date/time: Tue Sep 10 12:10:23 GMT 2019. ",
         "INST_DATETIME": "9-15-2019 4:30:09"
       },
       {
-        "NOTIFICATIONID": 17613969004,
+        "NOTIFICATIONID": "17613969004",
         "AIM": "PHN00066",
         "MESSAGE": " PHN00066 Instrument has been disconnected for more than 72 hours. Last contacted date/time: Tue Sep 10 12:10:23 GMT 2019. ",
         "INST_DATETIME": "9-14-2019 4:30:22"
       },
       {
-        "NOTIFICATIONID": 17474672625,
+        "NOTIFICATIONID": "17474672625",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "9-9-19 12:46"
       },
       {
-        "NOTIFICATIONID": 17339286466,
+        "NOTIFICATIONID": "17339286466",
         "AIM": "548",
         "MESSAGE": " 0548 Replenished RVs and updated inventory.",
         "INST_DATETIME": "4-9-19 11:11"
       },
       {
-        "NOTIFICATIONID": 17338387878,
+        "NOTIFICATIONID": "17338387878",
         "AIM": "172",
         "MESSAGE": " 0172 No assay found for reagent kit in section (RSH 9).",
         "INST_DATETIME": "4-9-19 8:49"
       },
       {
-        "NOTIFICATIONID": 17331613432,
+        "NOTIFICATIONID": "17331613432",
         "AIM": "3356",
         "MESSAGE": " 3356 Aspiration error on liquid level sense board (0), clot score.",
         "INST_DATETIME": "3-9-19 13:38"
       },
       {
-        "NOTIFICATIONID": 17331614251,
+        "NOTIFICATIONID": "17331614251",
         "AIM": "3350",
         "MESSAGE": " 3350 Unable to process test, aspiration error for (Pipetter) at (SH Sample).",
         "INST_DATETIME": "3-9-19 13:38"
       },
       {
-        "NOTIFICATIONID": 17331614256,
+        "NOTIFICATIONID": "17331614256",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 13:38"
       },
       {
-        "NOTIFICATIONID": 17331614258,
+        "NOTIFICATIONID": "17331614258",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 13:38"
       },
       {
-        "NOTIFICATIONID": 17331601964,
+        "NOTIFICATIONID": "17331601964",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 13:35"
       },
       {
-        "NOTIFICATIONID": 17331601966,
+        "NOTIFICATIONID": "17331601966",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 13:35"
       },
       {
-        "NOTIFICATIONID": 17331116544,
+        "NOTIFICATIONID": "17331116544",
         "AIM": "548",
         "MESSAGE": " 0548 Replenished RVs and updated inventory.",
         "INST_DATETIME": "3-9-19 12:06"
       },
       {
-        "NOTIFICATIONID": 17331102074,
+        "NOTIFICATIONID": "17331102074",
         "AIM": "900",
         "MESSAGE": " 0900 Wrong lot, component or serial number in the (Green) reagent carrier position in section (RSH 6).",
         "INST_DATETIME": "3-9-19 12:04"
       },
       {
-        "NOTIFICATIONID": 17331102075,
+        "NOTIFICATIONID": "17331102075",
         "AIM": "900",
         "MESSAGE": " 0900 Wrong lot, component or serial number in the (Yellow) reagent carrier position in section (RSH 6).",
         "INST_DATETIME": "3-9-19 12:04"
       },
       {
-        "NOTIFICATIONID": 17330573871,
+        "NOTIFICATIONID": "17330573871",
         "AIM": "3350",
         "MESSAGE": " 3350 Unable to process test, aspiration error for (Pipetter) at (SH Sample).",
         "INST_DATETIME": "3-9-19 10:34"
       },
       {
-        "NOTIFICATIONID": 17330573872,
+        "NOTIFICATIONID": "17330573872",
         "AIM": "842",
         "MESSAGE": " 0842 Unable to process test due to previous aspiration error on Sample ID (18).",
         "INST_DATETIME": "3-9-19 10:34"
       },
       {
-        "NOTIFICATIONID": 17330573874,
+        "NOTIFICATIONID": "17330573874",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 10:34"
       },
       {
-        "NOTIFICATIONID": 17330573876,
+        "NOTIFICATIONID": "17330573876",
         "AIM": "302",
         "MESSAGE": " 0302 Unable to process test, hardware failure or the user pressed Stop.",
         "INST_DATETIME": "3-9-19 10:34"
       },
       {
-        "NOTIFICATIONID": 17330513840,
+        "NOTIFICATIONID": "17330513840",
         "AIM": "3356",
         "MESSAGE": " 3356 Aspiration error on liquid level sense board (0), clot score.",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330513935,
+        "NOTIFICATIONID": "17330513935",
         "AIM": "3350",
         "MESSAGE": " 3350 Unable to process test, aspiration error for (Pipetter) at (SH Sample).",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330513936,
+        "NOTIFICATIONID": "17330513936",
         "AIM": "842",
         "MESSAGE": " 0842 Unable to process test due to previous aspiration error on Sample ID (17).",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330513770,
+        "NOTIFICATIONID": "17330513770",
         "AIM": "575",
         "MESSAGE": " 0575 Lot number updated for (Reaction Vessels) to (000210361) by operator (ADMIN).",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330513771,
+        "NOTIFICATIONID": "17330513771",
         "AIM": "548",
         "MESSAGE": " 0548 Replenished RVs and updated inventory.",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330513933,
+        "NOTIFICATIONID": "17330513933",
         "AIM": "576",
         "MESSAGE": " 0576 Expiration date updated for (Wash Buffer) to (11.25.2020) by operator (ADMIN).",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330513934,
+        "NOTIFICATIONID": "17330513934",
         "AIM": "575",
         "MESSAGE": " 0575 Lot number updated for (Wash Buffer) to (05288FN00) by operator (ADMIN).",
         "INST_DATETIME": "3-9-19 10:23"
       },
       {
-        "NOTIFICATIONID": 17330015351,
+        "NOTIFICATIONID": "17330015351",
         "AIM": "304",
         "MESSAGE": " 0304 (Reagent Carousel) failure.",
         "INST_DATETIME": "3-9-19 8:59"
       },
       {
-        "NOTIFICATIONID": 17330015352,
+        "NOTIFICATIONID": "17330015352",
         "AIM": "308",
         "MESSAGE": " 0308 The (Two step 18-4) assay is disabled due to a hardware failure.",
         "INST_DATETIME": "3-9-19 8:59"
       },
       {
-        "NOTIFICATIONID": 17330015353,
+        "NOTIFICATIONID": "17330015353",
         "AIM": "308",
         "MESSAGE": " 0308 The (One step 25) assay is disabled due to a hardware failure.",
         "INST_DATETIME": "3-9-19 8:59"
       },
       {
-        "NOTIFICATIONID": 17330015354,
+        "NOTIFICATIONID": "17330015354",
         "AIM": "308",
         "MESSAGE": " 0308 The (Two step 4-4) assay is disabled due to a hardware failure.",
         "INST_DATETIME": "3-9-19 8:59"
